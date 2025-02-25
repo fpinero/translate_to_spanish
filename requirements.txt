@@ -1,0 +1,8 @@
+# AWS SDK para Python
+boto3>=1.26.0
+
+# Para realizar peticiones HTTP
+requests>=2.28.0
+
+# Cliente AWS
+botocore>=1.29.0 
